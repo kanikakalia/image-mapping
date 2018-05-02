@@ -47,8 +47,11 @@
     "angular-sanitize": "^1.6.8",
     "angular-touch": "^1.6.8",
     "bootstrap": "^3.2.0",
+    "compression": "^1.7.2",
     "connect-modrewrite": "^0.10.2",
+    "express": "^4.16.3",
     "jquery": "^3.3.1",
-    "maphilight": "^1.4.0"
+    "maphilight": "^1.4.0",
+    "morgan": "^1.9.0"
   }
 }
